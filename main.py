@@ -3,6 +3,7 @@ from js import document
 
 club_members = [
     "Dani Sandoval",
+    "Erin Urbano",
     "Lance Catu",
     "Erin Rioflorido",
     "Inno Peña",
